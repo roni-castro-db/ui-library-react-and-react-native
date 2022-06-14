@@ -1,5 +1,5 @@
 {
-  "name": "ui-library",
+  "name": "react-and-react-native-demo-ui-library",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -43,5 +43,5 @@
     "react-native-storybook-loader": "^2.0.5",
     "typescript": "~4.3.5"
   },
-  "private": true
+  "private": false
 }
